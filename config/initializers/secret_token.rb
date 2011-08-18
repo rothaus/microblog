@@ -1,0 +1,7 @@
+# Be sure to restart your server when you modify this file.
+
+# Your secret key for verifying the integrity of signed cookies.
+# If you change this key, all old signed cookies will become invalid!
+# Make sure the secret is at least 30 characters and all random,
+# no regular words or you'll be exposed to dictionary attacks.
+Microblog::Application.config.secret_token = '885335d7bb5d5c53091054c68ab2f8f4dec5d76087a46c309721450f2bb34d3f3667b3dd64ca75a4724c1a1ef22a69e8ba6d7984cc0af13b0e48fe78f7d4621b'
